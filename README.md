@@ -25,3 +25,6 @@ da UNIMA
 * Após isso é só rodar esse comando na pasta onde você baixou o repositório:
 
   `python3 JogoDeAdvinhacao.py`
+
+# Alunos
+* Gustavo Lima Jatobá Leite (Guga-of-Sosaria)
