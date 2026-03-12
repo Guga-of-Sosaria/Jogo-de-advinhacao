@@ -2,7 +2,7 @@ Um simples jogo de advinhação escrito em python feito para uma atividade
 da matéria de Estrutura de Dados Avançada do curso de Ciência da Computação
 da UNIMA
 
-#Estrutura da árvore de decisão
+# Estrutura da árvore de decisão
 
 ```
                  O seu pokémon é 
@@ -16,7 +16,7 @@ da UNIMA
     Pikachu  Rotom       Mewtwo  Charizard
 
 ```
-#Como rodar o código
+# Como rodar o código
 * Primeiramente, certifique-se de que você tem o python 3.12 rodando
   o seguinte comando no terminal:
   
