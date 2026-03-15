@@ -101,6 +101,6 @@ fim = time.time()
 tempoBFS = fim - inicio
 print("Pronto!")
 
-#Mostra os tempos de execução de cada algorítimoclea
+#Mostra os tempos de execução de cada algorítimo
 print(f"Tempo de execução do DFS: {tempoDFS}")
 print(f"Tempo de execução do BFS: {tempoBFS}")
